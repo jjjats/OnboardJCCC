@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JCCC OnBoard</string>
+    <string name="activity_two_name">JCCC Quiz</string>
+    <string name="login_lbl">OnBoard Login</string>
+    <string name="title_section1">About JCCC</string>
+    <string name="title_section2">Campus Visit</string>
+    <string name="title_section3">Campus Map</string>
+    <string name="title_section4">Programs and Degrees</string>
+    <string name="title_section5">Find a Counselor</string>
+    <string name="title_section6">Paperwork Guide</string>
+    <string name="title_section7">Login</string>
+    <string name="title_section8">Twitter</string>
+    <string name="title_section9">Facebook</string>
+    <string name="title_section10">Emergency</string>
+    <string name="title_section11">QUIZ!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="questionSample">JCCC is an acronym for Just Come Create Careers</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="warning_text">Sure you want to do this, you cheater?</string>
+    <string name="show_answer_button">Show Me the Stuff</string>
+    <string name="judgment_toast">Great Job Cheating!</string>
+    <string name="cheater_toast">YOU CHEAT!</string>
+    <string name="question_1">JCCC is an acronym for Just Come Create a Career</string>
+    <string name="question_2">JCCCs mascot is a Musketeer</string>
+    <string name="question_3">Late enrollment is allowed</string>
+    <string name="question_4">JCCC offers 2-year programs as well as 4-year programs</string>
+    <string name="question_5">Scholarships, grants, loans and the Federal Work-Study Program are all considered to be types of financial aid</string>
+    <string name="question_6">Students are required to submit high school and/or college transcripts when applying for JCCC credit courses and financial aid.</string>
+    <string name="question_7">JCCC has a number of selective admission programs.</string>
+    <string name="question_8">New student orientation is available online or in the student success center, 2nd floor, Student Center (SC)</string>
+    <string name="question_9">Your residential address on the first day of the semester will be used to determine your residency and your tuition rate.</string>
+    <string name="question_10">JCCC offers a variety of scholarships to qualified applicants.</string>
+
+</resources>
